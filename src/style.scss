@@ -1,0 +1,16 @@
+.inlineButton {
+  input {
+    // width: 75% !important;
+    display: inline !important;
+    padding-bottom: 10px;
+  }
+  .editable-container {
+    // width: 25%;
+    display: inline !important;
+    margin: 0px;
+    padding: 0px;
+    .editable-btn {
+      margin: 2px !important;
+    }
+  }
+}

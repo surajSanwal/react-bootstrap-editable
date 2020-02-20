@@ -1,0 +1,35 @@
+{
+  "name": "react-bootstrap-editable",
+  "version": "1.0.0",
+  "description": "React component for making text and textarea editable",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://surajSanwal@github.com/surajSanwal/react-bootstrap-editable.git"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "editable",
+    "x-editable",
+    "focus",
+    "editing"
+  ],
+  "author": "Suraj Sanwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajSanwal/react-bootstrap-editable/issues"
+  },
+  "homepage": "https://github.com/surajSanwal/react-bootstrap-editable#readme",
+  "peerDependencies": {
+    "react": "*",
+    "reactstrap": "*",
+    "react-scripts": "*"
+  }
+}
