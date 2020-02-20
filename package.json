@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-editable",
+  "name": "react-bootstrap-input-editor",
   "version": "1.0.0",
   "description": "React component for making text and textarea editable",
   "main": "src/index.js",
